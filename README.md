@@ -21,7 +21,6 @@
 
 Right now I'm focused on React & TS & Redux
 
-You can see some projects with ReadMe.md below 
 ### Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Unsleeping.Unsleeping)
