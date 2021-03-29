@@ -1,6 +1,7 @@
 ## Hi I'm Alexander Mandrov
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/MANDR1K)
+<br >
 Visit my tg channel:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/unsleeping706)
 
