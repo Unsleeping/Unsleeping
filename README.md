@@ -22,7 +22,7 @@ You can see some projects with ReadMe.md below
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Unsleeping&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Unsleeping&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
