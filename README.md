@@ -8,7 +8,7 @@
 
 ## My GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=Unsleeping&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=Unsleeping&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook"/>
+<img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api?username=Unsleeping&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /><img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=Unsleeping&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
 
 ## My Tech Stacks
 
