@@ -19,26 +19,34 @@
 >Frameworks and libraries
 <p>
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="Nest JS" src="https://img.shields.io/badge/nexsjs-%23363636.svg?style=for-the-badge&logo=nestjs&logoColor=red"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NX monorepo" src="https://img.shields.io/badge/nx-%23363636.svg?style=for-the-badge&logo=nx&logoColor=white"/>
+<img alt="Zustand" src="https://img.shields.io/badge/zustand-5e4419.svg?&style=for-the-badge&logo=zustand&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Redux Saga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=white&labelColor=purple&color=purple"/>
 <img alt="Immer" src="https://img.shields.io/badge/Immer-00E7C3?logo=immer&logoColor=fff&style=for-the-badge"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-<img alt="Styled components" src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge"/>
+<img alt="React Hook Form" src="https://img.shields.io/badge/React Hook Form-3C873A?logo=rhf&logoColor=fff&style=for-the-badge"/>
+<img alt="Tanstack Ecosystem (Query, Table, Router)" src="https://img.shields.io/badge/Tanstack Ecosystem (Query, Table, Router)-ffa81c?logo=tanstack&logoColor=fff&style=for-the-badge"/>
+<img alt="Vite" src="https://img.shields.io/badge/vite-8DD6F9.svg?style=for-the-badge&logo=vite" />
+<img alt="Open AI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge"/>
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img alt="Open AI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge"/>
-<img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge"/>
 </p>
 
->DB related
+> Styles
 <p>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img alt="Styled components" src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img alt="SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+</p>
+
+>Backend & Databases
+<p>
+<img alt="Nest JS" src="https://img.shields.io/badge/nexsjs-%23363636.svg?style=for-the-badge&logo=nestjs&logoColor=red"/>
 <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Prisma" src="https://img.shields.io/badge/prisma-3E67B1?logo=prisma&logoColor=fff&style=for-the-badge"/>
 <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge"/>
@@ -46,12 +54,21 @@
 <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-343436?logo=postgresql&logoColor=blue&style=for-the-badge"/>
 </p>
 
+> Testing
+<p>
+<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img alt="Playwright" src="https://img.shields.io/badge/playwright-4EA94B?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img alt="Vitest" src="https://img.shields.io/badge/vitest-412991?style=for-the-badge&logo=vitest&logoColor=white"/>
+<img alt="Jest" src="https://img.shields.io/badge/jest-F04D35?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
+
 >Hosting/SaaS
 <p>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=blue&style=for-the-badge"/>
 <img alt="Railway" src="https://img.shields.io/badge/Railway-%23551980?logo=railway&logoColor=fff&style=for-the-badge"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
 ## More staff about me
